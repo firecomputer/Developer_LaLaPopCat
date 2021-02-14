@@ -13,7 +13,7 @@ I imitate it from an android app called Pop Cat that Developer LaLa made.
 I made it to experience pop cat meme fun and easy.
 thanks to use my program.
 
-# Korean
+### Korean
 
 라라팝캣은 밈으로 만들어진 데스크톱 프로그램입니다.
 저는 이 프로그램을 개발자 라라의 Pop Cat이란 앱에서 모방했습니다.
