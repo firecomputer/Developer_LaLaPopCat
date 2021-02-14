@@ -25,4 +25,4 @@ thanks to use my program.
 - [lala_twich](https://www.twitch.tv/developerlala)
 
 ## Windows download(x86)
-- [latest_release(1.1.0)](https://github.com/firecomputer/Developer_LaLaPopCat/raw/main/1.0.0/PopCat_Setup.msi)
+- [latest_release(1.0.0)](https://github.com/firecomputer/Developer_LaLaPopCat/raw/main/1.0.0/PopCat_Setup.msi)
