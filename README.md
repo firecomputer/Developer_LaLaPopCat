@@ -1,4 +1,4 @@
-<img src="images/image_banner.png" align="middle" width="1000"/>
+<img src="images/image_banner.png" align="middle" width="300"/>
 
 # Developer LaLa pop cat pc version
 # 개발자 라라 팝캣 PC버전
